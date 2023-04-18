@@ -1,0 +1,13 @@
+package logica.aulas.aulas05;
+
+public class Operadores {
+	
+	public static void main(String[]args) {
+	
+		float num1 = 5f;
+		float num2 = 2f;
+		
+		
+
+	}
+}
