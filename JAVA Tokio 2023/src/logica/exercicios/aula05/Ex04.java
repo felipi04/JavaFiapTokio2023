@@ -1,4 +1,4 @@
-package Exercicios05;
+package logica.exercicios.aula05;
 
 import java.util.Scanner;
 
@@ -12,7 +12,9 @@ public class Ex04 {
 		System.out.println("Digite o valor da nota B");
 		double B = entrada.nextDouble();
 		
-		System.out.println("Sua nota é:  " +double A / double B);
+		double notaFinal = (A+B) / 2;
+		
+		System.out.println("Sua nota é:  " + notaFinal);
 	
 		
 		
